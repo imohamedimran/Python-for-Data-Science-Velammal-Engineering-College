@@ -1,1 +1,0 @@
-Python tutorials inspired by programiz
